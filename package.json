@@ -8,9 +8,24 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@reduxjs/toolkit": "^1.7.1",
+    "antd": "^4.18.3",
+    "axios": "^0.24.0",
+    "chalk": "^5.0.0",
+    "formik": "^2.2.9",
+    "framer-motion": "^5.6.0",
+    "highcharts": "^9.3.2",
+    "highcharts-react-official": "^3.1.0",
+    "jest": "^27.4.7",
+    "lodash": "^4.17.21",
     "next": "12.0.8",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "react-query": "^3.34.8",
+    "react-redux": "^7.2.6",
+    "redux": "^4.1.2",
+    "redux-thunk": "^2.4.1",
+    "uuid": "^8.3.2"
   },
   "devDependencies": {
     "eslint": "8.7.0",
